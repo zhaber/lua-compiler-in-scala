@@ -1,0 +1,2 @@
+cd bin
+java -cp "../lib/kiama_2.8.0-1.0.1.jar:scalatest-1.3.jar:../scala-library.jar:." ca/mcmaster/lasci/Lasci $1 $2

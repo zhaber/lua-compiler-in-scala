@@ -1,0 +1,1 @@
+result = #"mystring" --8
